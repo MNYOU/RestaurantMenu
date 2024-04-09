@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantMenu", "RestaurantMenu\RestaurantMenu.csproj", "{5A09B5F0-B462-4739-820C-3740D24B4BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{1A970A7F-E3B2-4D93-8A3C-4C7486F7D9BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A09B5F0-B462-4739-820C-3740D24B4BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A09B5F0-B462-4739-820C-3740D24B4BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A09B5F0-B462-4739-820C-3740D24B4BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A09B5F0-B462-4739-820C-3740D24B4BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A970A7F-E3B2-4D93-8A3C-4C7486F7D9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A970A7F-E3B2-4D93-8A3C-4C7486F7D9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A970A7F-E3B2-4D93-8A3C-4C7486F7D9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A970A7F-E3B2-4D93-8A3C-4C7486F7D9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.deps.json
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.dll
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0\RestaurantMenu.pdb
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.AssemblyInfoInputs.cache
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.AssemblyInfo.cs
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.csproj.CoreCompileInputs.cache
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.dll
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\refint\RestaurantMenu.dll
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\RestaurantMenu.pdb
+D:\Programs\C#\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0\ref\RestaurantMenu.dll

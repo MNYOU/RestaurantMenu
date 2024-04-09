@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=329c5a51_002Dd54f_002D44b0_002D8f89_002Da7a308a91a2d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MenuMasterTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A970A7F-E3B2-4D93-8A3C-4C7486F7D9BF::net8.0::MenuMasterTests.MenuMasterTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f8b1dab2_002D10ca_002D4953_002D8ebc_002D6cf1ab3a632c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MenuMasterTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A970A7F-E3B2-4D93-8A3C-4C7486F7D9BF::net8.0::Tests.MenuMasterTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
